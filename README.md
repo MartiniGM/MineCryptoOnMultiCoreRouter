@@ -9,7 +9,7 @@ On line 19 you enter your duinocoin username
 On line 20 you enter what your device is called
 On line 21 you enter your mining key
 
-Thanks to BastelPichi for inspiration.. rest of this fie is his work. :)
+Thanks to BastelPichi for inspiration.. rest of this file is his work. :)
 
 This is a short guide that shows you how to mine DuinoCoin on a wifi router. <a  href="https://duinocoin.com">DuinoCoin</a> is a crypto that can even be mined on such low power devices.
 
