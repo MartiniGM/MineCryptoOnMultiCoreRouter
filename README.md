@@ -3,7 +3,7 @@
 
 This script is based on MineCryptoOnWifiRouter... but after trying the script on my Asus RT-AX88U I though "what the what.. couldn't this be done faster?" so I reworked the script to utilize more cores than 1. 
 
-Scriptname is changed to minermulticore.py and to support merlinwrt LED-logic has been removed.
+Scriptname is changed to minermulticore.py and to support merlinwrt; LED-logic has been removed.
 
 On line 19 you enter your duinocoin username
 On line 20 you enter what your device is called
