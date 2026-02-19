@@ -5,9 +5,9 @@ This script is based on MineCryptoOnWifiRouter... but after trying the script on
 
 Scriptname is changed to minermulticore.py and to support merlinwrt; LED-logic has been removed.
 
-On line 19 you enter your duinocoin username
-On line 20 you enter what your device is called
-On line 21 you enter your mining key
+On line 19 you enter your duinocoin username,
+on line 20 you enter what your device is called,
+on line 21 you enter your mining key
 
 Thanks to BastelPichi for inspiration.. rest of this file is his work. :)
 
