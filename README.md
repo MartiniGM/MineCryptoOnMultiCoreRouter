@@ -30,7 +30,6 @@ Model | Hashrate | Difficulty | Profit
 --- | --- | --- | ---
 AVM Fritz!Box 4040 | 100kH/s | 2400 | ~10-15 DUCO per day
 TP-LINK WR841N | 5kH/s | 5000
-
 Asus RT-AX88U | 220-230kH/s x 4 cores
 
 
